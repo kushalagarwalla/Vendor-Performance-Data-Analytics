@@ -1,0 +1,21 @@
+2025-06-08 16:32:48,597 - INFO - Logging to D:\Kushal\Data Analytics\Projects\Vendor Performance Data Analytics\logs\get_vendor_summary.log
+2025-06-08 16:32:48,599 - INFO - Creating Vendor Summary Table....
+2025-06-08 16:33:10,361 - INFO -    VendorNumber                   VendorName  Brand  ... TotalSalesPrice  TotalExciseTax  FreightCost
+0          1128  BROWN-FORMAN CORP             1233  ...       672819.31       260999.20     68601.68
+1          4425        MARTIGNETTI COMPANIES   3405  ...       561512.37       294438.66    144929.24
+2         17035  PERNOD RICARD USA             8068  ...       461140.15       343854.07    123780.22
+3          3960  DIAGEO NORTH AMERICA INC      4261  ...       420050.01       368242.80    257032.07
+4          3960  DIAGEO NORTH AMERICA INC      3545  ...       545778.28       249587.83    257032.07
+
+[5 rows x 14 columns]
+2025-06-08 16:33:10,405 - INFO - Cleaning Data....
+2025-06-08 16:33:10,420 - INFO -    VendorNumber                VendorName  Brand  ... ProfitMargin  StockTurnover  SalesToPurchaseRatio
+0          1128         BROWN-FORMAN CORP   1233  ...    25.297693       0.979108              1.338647
+1          4425     MARTIGNETTI COMPANIES   3405  ...    21.062810       0.976890              1.266830
+2         17035         PERNOD RICARD USA   8068  ...    24.675786       0.998575              1.327594
+3          3960  DIAGEO NORTH AMERICA INC   4261  ...    27.139908       0.993703              1.372493
+4          3960  DIAGEO NORTH AMERICA INC   3545  ...    28.412764       0.983556              1.396897
+
+[5 rows x 18 columns]
+2025-06-08 16:33:10,449 - INFO - Ingesting Data....
+2025-06-08 16:33:10,499 - INFO - Complete

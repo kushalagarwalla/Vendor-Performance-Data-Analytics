@@ -1,0 +1,6 @@
+ipykernel
+numpy
+matplotlib
+SQLAlchemy
+panda
+scipy
