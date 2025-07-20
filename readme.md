@@ -24,7 +24,7 @@ This project aims to analyze vendor performance based on purchasing and profit d
 - **pandas** – Data manipulation
 - **matplotlib & seaborn** – Visualization
 - **scipy.stats** – Statistical inference
-- **sqlite3** – (if applicable) local data persistence
+- **sqlite3** –  local data persistence
 
 ---
 
