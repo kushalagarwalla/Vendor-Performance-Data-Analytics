@@ -1,6 +1,6 @@
 # Vendor Performance Data Analytics
 
-This project aims to analyze vendor performance based on purchasing and profit data using Python, pandas, seaborn, matplotlib, and statistical techniques. It includes exploratory data analysis (EDA), Pareto analysis, confidence interval estimation, and classification of vendors based on contribution and margin.
+This project aims to analyze vendor performance based on purchasing and profit data using Python, pandas, seaborn, matplotlib, and statistical techniques. It includes exploratory data analysis (EDA), and classification of vendors based on contribution and margin.
 
 ---
 
